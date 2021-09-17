@@ -4,4 +4,4 @@ ini adalah game increment dimana pemain memainkan dengan men tap koin dan menaik
 saya menambahkan fitur musik dan son efek
 ## Game telah di build ada dalam folder dengan nama hasil game
 link Game 
-https://github.com/rickyhuta15/ProyekGameAgate/tree/master/DiloIncrementalGame/HasilGameINcremental
+https://github.com/rickyhuta15/ProyekGameAgate/releases/tag/IncrementalGame
